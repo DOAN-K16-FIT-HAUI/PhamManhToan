@@ -3,42 +3,6 @@
   "WorkspaceRootPath": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\datn\\doantotnghiep\\doantotnghiep\\appview\\views\\quanlyhoadon\\_thongtinhd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\quanlyhoadon\\_thongtinhd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\datn\\doantotnghiep\\doantotnghiep\\appview\\controllers\\quanlyhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\quanlyhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\datn\\doantotnghiep\\doantotnghiep\\appview\\views\\quanlyhoadon\\_quanlyhoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\quanlyhoadon\\_quanlyhoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|d:\\datn\\doantotnghiep\\doantotnghiep\\appapi\\services\\danhgiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\services\\danhgiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\datn\\doantotnghiep\\doantotnghiep\\appview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|d:\\datn\\doantotnghiep\\doantotnghiep\\appapi\\controllers\\danhgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\danhgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\datn\\doantotnghiep\\doantotnghiep\\appview\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|d:\\datn\\doantotnghiep\\doantotnghiep\\appapi\\services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A30792-7B87-4DE2-A50C-D9D30FD1B4AF}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\datn\\doantotnghiep\\doantotnghiep\\appview\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|d:\\datn\\doantotnghiep\\doantotnghiep\\appview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{73EA9167-E47C-4746-AC59-EB7916C380BD}|AppView\\AppView.csproj|solutionrelative:appview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -54,137 +18,24 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_ThongTinHD.cshtml",
-              "DocumentMoniker": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Views\\QuanLyHoaDon\\_ThongTinHD.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\QuanLyHoaDon\\_ThongTinHD.cshtml",
-              "ToolTip": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Views\\QuanLyHoaDon\\_ThongTinHD.cshtml",
-              "RelativeToolTip": "AppView\\Views\\QuanLyHoaDon\\_ThongTinHD.cshtml",
-              "ViewState": "AgIAABEBAAAAAAAAAAAAACYBAAAPAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T10:30:27.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_QuanLyHoaDon.cshtml",
-              "DocumentMoniker": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Views\\QuanLyHoaDon\\_QuanLyHoaDon.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\QuanLyHoaDon\\_QuanLyHoaDon.cshtml",
-              "ToolTip": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Views\\QuanLyHoaDon\\_QuanLyHoaDon.cshtml",
-              "RelativeToolTip": "AppView\\Views\\QuanLyHoaDon\\_QuanLyHoaDon.cshtml",
-              "ViewState": "AgIAAEYBAAAAAAAAAAAowFYBAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T10:14:08.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuanLyHoaDonController.cs",
-              "DocumentMoniker": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Controllers\\QuanLyHoaDonController.cs",
-              "RelativeDocumentMoniker": "AppView\\Controllers\\QuanLyHoaDonController.cs",
-              "ToolTip": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Controllers\\QuanLyHoaDonController.cs",
-              "RelativeToolTip": "AppView\\Controllers\\QuanLyHoaDonController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAtwF8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T10:13:44.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DanhGiaService.cs",
-              "DocumentMoniker": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppAPI\\Services\\DanhGiaService.cs",
-              "RelativeDocumentMoniker": "AppAPI\\Services\\DanhGiaService.cs",
-              "ToolTip": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppAPI\\Services\\DanhGiaService.cs",
-              "RelativeToolTip": "AppAPI\\Services\\DanhGiaService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAA0wDQAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:42:22.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DanhGiaController.cs",
-              "DocumentMoniker": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppAPI\\Controllers\\DanhGiaController.cs",
-              "RelativeDocumentMoniker": "AppAPI\\Controllers\\DanhGiaController.cs",
-              "ToolTip": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppAPI\\Controllers\\DanhGiaController.cs",
-              "RelativeToolTip": "AppAPI\\Controllers\\DanhGiaController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:42:07.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SanPhamService.cs",
-              "DocumentMoniker": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppAPI\\Services\\SanPhamService.cs",
-              "RelativeDocumentMoniker": "AppAPI\\Services\\SanPhamService.cs",
-              "ToolTip": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppAPI\\Services\\SanPhamService.cs",
-              "RelativeToolTip": "AppAPI\\Services\\SanPhamService.cs",
-              "ViewState": "AgIAAL8BAAAAAAAAAAAgwNMBAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:38:31.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductDetail.cshtml",
-              "DocumentMoniker": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Views\\Home\\ProductDetail.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\Home\\ProductDetail.cshtml",
-              "ToolTip": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Views\\Home\\ProductDetail.cshtml",
-              "RelativeToolTip": "AppView\\Views\\Home\\ProductDetail.cshtml",
-              "ViewState": "AgIAALgCAAAAAAAAAEBVwMYCAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T04:34:40.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Shop.cshtml",
-              "DocumentMoniker": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Views\\Home\\Shop.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\Home\\Shop.cshtml",
-              "ToolTip": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Views\\Home\\Shop.cshtml",
-              "RelativeToolTip": "AppView\\Views\\Home\\Shop.cshtml",
-              "ViewState": "AgIAABUBAAAAAAAAAEBVwC4BAABAAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T04:33:47.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AppView\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AppView\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T04:33:23.426Z",
+              "WhenOpened": "2025-05-02T10:50:46.716Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AppView\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\DATN\\DoAnTotNghiep\\DoAnTotNghiep\\AppView\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AppView\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAKcGAAAAAAAAAAAowL4GAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:31:49.154Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
