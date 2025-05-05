@@ -847,3 +847,4 @@ D:\DATN\DoAnTotNghiep\DoAnTotNghiep\AppView\obj\Debug\net6.0\refint\AppView.dll
 D:\DATN\DoAnTotNghiep\DoAnTotNghiep\AppView\obj\Debug\net6.0\AppView.pdb
 D:\DATN\DoAnTotNghiep\DoAnTotNghiep\AppView\obj\Debug\net6.0\AppView.genruntimeconfig.cache
 D:\DATN\DoAnTotNghiep\DoAnTotNghiep\AppView\obj\Debug\net6.0\ref\AppView.dll
+D:\DATN\DoAnTotNghiep\DoAnTotNghiep\AppView\obj\Debug\net6.0\AppView.sourcelink.json

@@ -244,3 +244,4 @@ D:\DATN\DoAnTotNghiep\DoAnTotNghiep\AppAPI\obj\Debug\net6.0\refint\AppAPI.dll
 D:\DATN\DoAnTotNghiep\DoAnTotNghiep\AppAPI\obj\Debug\net6.0\AppAPI.pdb
 D:\DATN\DoAnTotNghiep\DoAnTotNghiep\AppAPI\obj\Debug\net6.0\AppAPI.genruntimeconfig.cache
 D:\DATN\DoAnTotNghiep\DoAnTotNghiep\AppAPI\obj\Debug\net6.0\ref\AppAPI.dll
+D:\DATN\DoAnTotNghiep\DoAnTotNghiep\AppAPI\obj\Debug\net6.0\AppAPI.sourcelink.json

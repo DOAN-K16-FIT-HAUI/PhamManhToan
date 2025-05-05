@@ -477,19 +477,6 @@ namespace AppData.Migrations
                     b.HasIndex("IDVaiTro");
 
                     b.ToTable("NhanVien", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            ID = new Guid("2ec27ab7-5f67-4ed5-ae67-52f9c9726ebf"),
-                            DiaChi = "Ha Noi",
-                            Email = "admin@gmail.com",
-                            IDVaiTro = new Guid("b4996b2d-a343-434b-bfe9-09f8efbb3852"),
-                            PassWord = "$2a$10$SkimxxBIlrv/l33hTFvbkutV/.jF4rlwd9APgp1ZZjNEgVDYXvHa6",
-                            SDT = "0985143915",
-                            Ten = "Admin",
-                            TrangThai = 1
-                        });
                 });
 
             modelBuilder.Entity("AppData.Models.QuyDoiDiem", b =>
@@ -510,15 +497,6 @@ namespace AppData.Migrations
                     b.HasKey("ID");
 
                     b.ToTable("QuyDoiDiem", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            ID = new Guid("16bd37c4-cef0-4e92-9bb5-511c43d99037"),
-                            TiLeTichDiem = 0,
-                            TiLeTieuDiem = 0,
-                            TrangThai = 1
-                        });
                 });
 
             modelBuilder.Entity("AppData.Models.SanPham", b =>
@@ -572,20 +550,6 @@ namespace AppData.Migrations
                     b.HasKey("ID");
 
                     b.ToTable("VaiTro", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            ID = new Guid("b4996b2d-a343-434b-bfe9-09f8efbb3852"),
-                            Ten = "Admin",
-                            TrangThai = 1
-                        },
-                        new
-                        {
-                            ID = new Guid("952c1a5d-74ff-4daf-ba88-135c5440809c"),
-                            Ten = "Nhân viên",
-                            TrangThai = 1
-                        });
                 });
 
             modelBuilder.Entity("AppData.Models.Voucher", b =>

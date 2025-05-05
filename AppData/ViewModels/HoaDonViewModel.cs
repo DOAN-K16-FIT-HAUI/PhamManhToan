@@ -1,4 +1,4 @@
-﻿using AppData.Migrations;
+﻿
 using AppData.Models;
 
 namespace AppData.ViewModels
